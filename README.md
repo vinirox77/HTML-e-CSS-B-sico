@@ -1,2 +1,2 @@
-# HTML-e-CSS-B-sico
+# HTML-e-CSS-Basico
 HTML e CSS Básico
